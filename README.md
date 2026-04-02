@@ -1,17 +1,20 @@
-# chessgame
+♟️ Chess Mobile Game
 
-A new Flutter project.
+A modern, feature-rich chess experience designed for mobile devices. Play against AI, challenge friends, and improve your skills anytime, anywhere.Features
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2-Player Mode (Local Multiplayer)
+Play against a friend on the same device.
+Full Chess Rules Support
+Includes all official rules:
+Check & Checkmate
+Castling
+En Passant
+Pawn Promotion
+Clean & Minimal UI
+Distraction-free design focused on gameplay.
+Touch-Friendly Controls
+Easy piece selection and movement optimized for mobile.
+Turn Indicator
+Clearly shows whose turn it is.
+Game Reset Option
+Restart the game anytime.
